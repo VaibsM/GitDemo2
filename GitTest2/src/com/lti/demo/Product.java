@@ -4,6 +4,7 @@ public class Product {
 	private int prdId;
 	private String prdName;
 	private double prdCost;
+	public static final String companyName = "DMart";
 	
 	public Product() {
 		prdId = 0;
